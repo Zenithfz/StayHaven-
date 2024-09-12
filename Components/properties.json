@@ -1,0 +1,133 @@
+{
+    "properties":[
+      {
+        "id":"prop1",
+        "type":"House",
+        "bedrooms":3,
+        "price":750000,
+        "tenure":"Freehold",
+        "description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+        "location":"Petts Wood Road, Petts Wood, Orpington",
+        "picture":"https://lid.zoocdn.com/645/430/aff8e88b5875d0e5a7e25701ba9bdbaaa0c69cb2.jpg",
+        "url":"images/prop1.html",
+        "added": {
+          "month":"October",
+          "day":12,
+          "year":2022
+        }
+      },
+      {
+        "id":"prop2",
+        "type":"Flat",
+        "bedrooms":2,
+        "price":399995,
+        "tenure":"Freehold",
+        "description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+        "location":"Crofton Road, Orpington, BR6",
+        "picture":"https://lid.zoocdn.com/645/430/5508107a6bab959873cc0f9b5c4097543123264e.jpg",
+        "url":"properties/prop2.html",
+        "added": {
+          "month":"September",
+          "day":14,
+          "year":2022
+        }
+      },
+      {
+        "id":"prop3",
+        "type":"House",
+        "bedrooms":4,
+        "price":899995,
+        "tenure":"Freehold",
+        "description":"Despite its size, this bedroom bursts with vibrant colors and textures. Low seating, floor cushions, and a canopy bed draped in rich fabrics create a cozy, free-spirited ambiance....",
+        "location":"Fisherton, Ayr, South Ayrshire, KA7",
+        "picture":"https://media.onthemarket.com/properties/13328877/1466104531/image-0-480x320.jpg",
+        "url":"properties/prop3.html",
+        "added": {
+          "month":"December",
+          "day":24,
+          "year":2022
+        }
+      },
+      {
+        "id":"prop4",
+        "type":"Flat",
+        "bedrooms":2,
+        "price":399995,
+        "tenure":"Leasehold",
+        "description":"An excellent buy to let opportunity to purchase this gorgeous, two bedroom first floor flat. Positioned on the end-of-terrace and benefiting from a generous private rear garden, the flat already has a well thought of tenant in place. Convenient for local schools, bus routes, shops and close to the access for the A1058 City Centre and the A19 North and South to the Tyne Tunnel, Silverlink and Cobalt Business Park. It is also approximately a 10-15 minute walk from North Tyneside General Hospital....",
+        "location":"Whitehouse Lane, North Shields, NE29 8PD",
+        "picture":"https://media.onthemarket.com/properties/14111260/1469889292/image-0-480x320.jpg",
+        "url":"properties/prop4.html",
+        "added": {
+          "month":"January",
+          "day":23,
+          "year":2023
+        }
+      },
+      {
+        "id":"prop5",
+        "type":"House",
+        "bedrooms":5,
+        "price":999995,
+        "tenure":"Freehold",
+        "description":"Located on a sought-after road in the heart of Highgate and occupying a two-acre site, a bespoke family home with the accommodation within the main house predominantly arranged over three floors (13,807 sq. ft. / 1282.7 sq. m ) with the added benefit of a substantial, self-contained staff lodge. The luxurious entrance hall of this stunning home has a glass lift to each floor. From the impressive entrance hall, there is the formal sitting and dining room that overlooks the magnificent grounds, that opens onto the breakfast room and in turn opens onto the kitchen....",
+        "location":"Merton Lane, Highgate, London, N6",
+        "picture":"https://media.onthemarket.com/properties/9498172/1339237394/image-0-480x320.jpg",
+        "url":"properties/prop5.html",
+        "added": {
+          "month":"September",
+          "day":14,
+          "year":2021
+        }
+      },
+      {
+        "id":"prop6",
+        "type":"House",
+        "bedrooms":3,
+        "price":167500,
+        "tenure":"Freehold",
+        "description":"Gillan Mews is a brand new collection of 2 and 3 bedroom homes, situated in an excellent location and available to purchase via the Shared Ownership Scheme....",
+        "location":"Gillan Court, 267 Baring Road, London,SE12",
+        "picture":"https://cdn2-property.estateapps.co.uk/files/property/31/image/rps_cor-WHT200102/WHT200102_01.jpg",
+        "url":"properties/prop6.html",
+        "added": {
+          "month":"August",
+          "day":19,
+          "year":2020
+        }
+      },
+      {
+        "id":"prop7",
+        "type":"House",
+        "bedrooms":2,
+        "price":475000,
+        "tenure":"Freehold",
+        "description":"Nestled within the picturesque village of Finchingfield, known for its idyllic countryside views and historic charm, this quaint two-bedroom cottage offers a perfect blend of character and modern comfort....",
+        "location":"Finchingfield, CM7",
+        "picture":"https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url":"properties/prop7.html",
+        "added": {
+          "month":"July",
+          "day":20,
+          "year":2019
+        }
+      },
+      {
+        "id":"prop8",
+        "type":"Flat",
+        "bedrooms":4,
+        "price":375000,
+        "tenure":"Freehold",
+        "description":"Sherwood Court is located on Seymour Place on the west side of Marylebone. It is ideally placed for the boutique shops and restaurants of both the Portman and Marylebone village, within easy reach of the world-renowned shopping of Oxford Street and green open spaces of Hyde Park....",
+        "location":"Sherwood Court, Harrowby Street",
+        "picture":"https://d128szaucry5on.cloudfront.net/media/filer_public/f1/5f/f15f0b4f-92b8-4ae3-beca-a2bf1ad630f2/external-1.jpg",
+        "url":"properties/prop8.html",
+        "added": {
+          "month":"June",
+          "day":10,
+          "year":2023
+        }
+      }
+    
+    ]
+    }
